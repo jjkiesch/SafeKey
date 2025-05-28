@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Safe Key Property Services</title>
+    <link href="https://jjkiesch.github.io/SafeKey/feed.xml" rel="self" />
+    <link href="https://jjkiesch.github.io/SafeKey" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>JK</name>
+    </author>
+    <id>https://jjkiesch.github.io/SafeKey</id>
+
+</feed>
