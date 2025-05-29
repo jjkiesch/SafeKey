@@ -9,19 +9,5 @@
         "name": "JK"
     },
     "items": [
-        {
-            "id": "https://jjkiesch.github.io/SafeKey/properties/house-1/",
-            "url": "https://jjkiesch.github.io/SafeKey/properties/house-1/",
-            "title": "house 1",
-            "summary": "title: “Sunset Apartments” slug: “sunset-apartments” category: “properties” tags: [“2-bed”, “available”] address: “123 Main St, Dallas, TX” rent: “$1,350/mo” bedrooms: 2 bathrooms: 1 square_feet: 980 image: “/media/sunset.jpg” available: true Spacious 2-bedroom apartment in North Dallas with close access to shops and public transport. Features updated appliances,&hellip;",
-            "content_html": "<hr>\n<h2 id=\"title-sunset-apartments-slug-sunset-apartments-category-properties-tags-2-bed-available-address-123-main-st-dallas-tx-rent-1350mo-bedrooms-2-bathrooms-1-square_feet-980-image-mediasunsetjpg-available-true\">title: “Sunset Apartments”\nslug: “sunset-apartments”\ncategory: “properties”\ntags: [“2-bed”, “available”]\naddress: “123 Main St, Dallas, TX”\nrent: “$1,350/mo”\nbedrooms: 2\nbathrooms: 1\nsquare_feet: 980\nimage: “/media/sunset.jpg”\navailable: true</h2>\n<p>Spacious 2-bedroom apartment in North Dallas with close access to shops and public transport. Features updated appliances, hardwood floors, and a private patio.</p>",
-            "author": {
-                "name": "JK"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-28T16:50:56-05:00",
-            "date_modified": "2025-05-28T16:51:27-05:00"
-        }
     ]
 }
